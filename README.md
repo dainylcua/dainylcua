@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi, I'm Dainyl - a Full-Stack Developer with a lot of D&D projects!
 
-<!--
-**dainylcua/dainylcua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[LinkedIn](https://www.linkedin.com/in/dainylcua/)
+[Twitter](twitter.com/dainylcua)
+---
+Currently enrolled in General Assembly's Software Engineering Immersive Program. Developing a lot of D&D projects in full-stack aplications while finding new interests to create useful tools for. 
 
-Here are some ideas to get you started:
+### Skills
+JavaScript, HTML, CSS, React, Jquery, Express, MongoDB, NodeJS, Git, Matlab, and much more.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interests
+Gaming (tabletop, PC, console, mobile), Coding, Music, Baking, Storytelling, Graphic Design, and Pets!
+
+---
+_Check back for more - I'm always furthering my skillset!_
