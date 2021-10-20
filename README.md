@@ -9,7 +9,7 @@ Currently enrolled in General Assembly's Software Engineering Immersive Program.
 JavaScript, HTML, CSS, React, Jquery, Express, MongoDB, NodeJS, Git, Matlab, and much more.
 
 ### Interests
-Gaming (tabletop, PC, console, mobile), Coding, Music, Baking, Storytelling, Graphic Design, and Pets!
+Coding, Gaming (tabletop, PC, console, mobile), Music, Baking, Storytelling, and Graphic Design.
 
 ---
 ### Projects:
