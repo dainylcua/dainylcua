@@ -12,4 +12,14 @@ JavaScript, HTML, CSS, React, Jquery, Express, MongoDB, NodeJS, Git, Matlab, and
 Gaming (tabletop, PC, console, mobile), Coding, Music, Baking, Storytelling, Graphic Design, and Pets!
 
 ---
+### Projects:
+
+_More details can be found on each of the respsective pages._
+
+[DungeonSheet](https://github.com/dainylcua/dungeon-sheet): A psuedo-SPA (single page application) character creator which uses JavaScript and JQuery (and mimics a single page application)
+
+[5eTale](https://github.com/dainylcua/5eTale): A CRUD custom item database which uses MongoDB and Express.js for the backend.
+
+---
+
 _Check back for more - I'm always furthering my skillset!_
