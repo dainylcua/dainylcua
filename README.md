@@ -16,9 +16,13 @@ Coding, Gaming (tabletop, PC, console, mobile), Music, Baking, Storytelling, and
 
 _More details can be found on each of the respsective pages._
 
-[DungeonSheet](https://github.com/dainylcua/dungeon-sheet): A psuedo-SPA (single page application) character creator which uses JavaScript and JQuery (and mimics a single page application)
+[dispbeast.io-frontend](https://github.com/dainylcua/dispbeast.io-frontend): The front-end for an ecommerce-game site which uses React, Node.js.
+
+[dispbeast.io-backend](https://github.com/dainylcua/dispbeast.io-backend): The back-end for an ecommerce-game site which uses MongoDB, Express.js, and Node.js.
 
 [5eTale](https://github.com/dainylcua/5eTale): A CRUD custom item database which uses MongoDB and Express.js for the backend.
+
+[DungeonSheet](https://github.com/dainylcua/dungeon-sheet): A psuedo-SPA (single page application) character creator which uses JavaScript and JQuery (and mimics a single page application)
 
 ---
 
