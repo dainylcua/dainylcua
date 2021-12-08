@@ -4,7 +4,7 @@
 
 ### [Twitter](twitter.com/dainylcua)
 
-[![Dainyl's GitHub stats](https://github-readme-stats.vercel.app/api?username=dainylcua)](https://github.com/anuraghazra/github-readme-stats)
+[![Dainyl's GitHub stats](https://github-readme-stats.vercel.app/api?username=dainylcua&theme=great-gatsby&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 I am a Full-Stack developer that recently graduate from General Assembly's Software Engineering Immersive Remote Bootcamp! Developing a lot of full-stack D&D aplications while finding new interests to create useful tools for. 
