@@ -38,7 +38,7 @@ _More details can be found on each of the respsective pages._
 
 #### Challenges:
 
-[Advent of Code 2021](https://github.com/dainylcua/dc-advent-2021): I'm currently participating in 2021's Advent of Code! Progress: (12* / 12*)
+[Advent of Code 2021](https://github.com/dainylcua/dc-advent-2021): I'm currently participating in 2021's Advent of Code! Progress: (18* / 18*)
 
 #### Discord Bots:
 
