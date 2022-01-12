@@ -6,6 +6,8 @@
 
 ### [Portfolio](https://dainylcua.netlify.app/)
 
+### [Blog](https://dc-blog-omega.vercel.app/)
+
 [![Dainyl's GitHub stats](https://github-readme-stats.vercel.app/api?username=dainylcua&theme=great-gatsby&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
@@ -24,6 +26,8 @@ Coding, Gaming (tabletop, PC, console, mobile), Music, Baking, Storytelling, and
 
 _More details can be found on each of the respsective pages._
 
+[DC Blog](https://github.com/dainylcua/dc-blog): A blogsite built with a Next.js, GraphQL, and Contentful Jamstack. I built this within 48 hours for MLH's Hibernation Hacks Hackathon.
+
 [Dev-to-Dev](https://github.com/dainylcua/dev-to-dev): A full-stack CRUD forum developed in a group using Django and PostgreSQL. I took up the task of full-stack developer and GitHub manager for this project.
 
 [dispbeast.io-frontend](https://github.com/dainylcua/dispbeast.io-frontend): The front-end for an ecommerce-game site which uses React, Node.js.
@@ -38,9 +42,13 @@ _More details can be found on each of the respsective pages._
 
 ### Hackathons, Challenges, and More:
 
+### Hackathons:
+
+[MLH's HibernationHacks](https://organize.mlh.io/participants/events/7795-hibernationhacks): I built my DC Blog project within 48 hours for this Hackathon - theme: Hacks that you've been putting off. I eventually want to rebuild my portfolio with a much better design within this website.
+
 #### Challenges:
 
-[Advent of Code 2021](https://github.com/dainylcua/dc-advent-2021): I'm currently participating in 2021's Advent of Code! Progress: (18* / 18*)
+[Advent of Code 2021](https://github.com/dainylcua/dc-advent-2021): I participatedin 2021's Advent of Code (to be continued)! Progress: (18* / 50*)
 
 #### Discord Bots:
 
