@@ -13,7 +13,7 @@
 ---
 I am a software engineer currently interning at Twilio under the Developer Voices team! I'm currently helping devs learn how to utilize Twilio's services to the fullest - let me know if I can help you out!
 
-### [Resume](https://github.com/dainylcua/dc-resume/raw/main/Dainyl%20Cua%20-%20Tech%20Resume%20General.pdf)
+### [Resume](https://github.com/dainylcua/dc-resume/raw/main/Dainyl%20Cua%20-%20Tech%20Resume.pdf)
 
 ### Skills
 JavaScript, HTML, CSS, React, Jquery, Express, MongoDB, NodeJS, Git, Matlab, and much more!
